@@ -1,6 +1,6 @@
 ## Welcome to Br Mc
 
-Click (here)[https://jjazz.substack.com]
+Click [here](https://jjazz.substack.com)
 
 Or
 
