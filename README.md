@@ -1,11 +1,12 @@
 ## Welcome to Br Mc
 
-Click [https://jjazz.substack.com](here)
+Click https://jjazz.substack.com
 
 Or
 
-Click [https://www.jazzofjapan.com](here)
+Click https://www.jazzofjapan.com
 
 Or
 
-Click [brmc.one](brmc.one)
+Click http://brmc.one or https://brmc.one or http://www.brmc.one or https://www.brmc.one ... or http://no.brmc.one or https://no.brmc.one
+
