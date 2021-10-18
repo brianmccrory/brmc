@@ -24,7 +24,7 @@
    * page and component files…involved build system, localization, verification tools, complexity analysis tools, compdev tool.
 * C++ support: Ad-hoc and on-demand c++ changes in webscr (front-end app) for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
 * Localization tools: Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). Nested components difficult analysis, validation tools, migration tools, complexity analysis tools, parallel build script (improve release time), build-time integration changes, iincremental builds.
-* Code source ownerships: Ownership of complex stream branch/delivery (clearcase; clearcase to ??? migration also came up). Handled all merges and deliveries since front-end and webdev team were not experienced with streams, merges, deliveries.
+* Code source ownerships: Ownership of complex stream branch/delivery (clearcase, clearcase migration). Handled all merges and deliveries since front-end and webdev team were not experienced with streams, merges, deliveries.
 * Email conversion: Email conversion project was separate from web templates (front-end app) conversion. 
 * XPT Service:
 * Estimating of mobile template conversion working with offshore teams.
