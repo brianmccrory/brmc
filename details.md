@@ -30,7 +30,7 @@ Senior Software Engineer
 
 ---
 
-# Half.com/eBay
+# Half.com / eBay
 ### Senior Software Engineer, Applications Development
 eBay Attributes System (2001-2002)
 * Integrated with eBay ISAPI to develop the eBay attribute system by merging Deja.com catalog platform 
@@ -45,7 +45,7 @@ Half.com Catalog System (2000–2001)
 
 --- 
 
-# Deja.com		1997–2000 Austin, TX
+# Deja.com / Deja News
 ### Senior Software Engineer, Applications Development
 * Developed and worked on back-end systems, front-end applications, and API layers. Back-end systems consisted of HTTP client-server and standalone systems based on Perl, SQL, and C++. Front-end systems were based on large Perl CGI systems with HTML and embedded Perl (similar to Servlets/JSP), and Java.
 * Back-end services (Perl, C++, SQL) for searching, publishing, and real-time updating of memory-mapped files optimized for speed and complex queries.
