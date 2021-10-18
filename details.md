@@ -1,4 +1,4 @@
-## PayPal
+# PayPal
 ### Principal Engineer, Domain Technical Lead, Consumer Products Team
 
 * Swag fest, yearly swagging responsibilities, t-shirt sizes & detailed estimates.
@@ -10,15 +10,14 @@
 * also CE2, Money Movement, Consumer DTL (2012)
 * RM – Request Money flow, cancel request, emails.
 
-## PayPal
-### Senior Software Engineer, Consumer Products Team (2006-2007)
+### Senior Software Engineer, Consumer Products Team
 * AKA “Be Loved” project team.
 * SRD – Sitewide Redesign (2007 ish?)
 
-## PayPal
-### Senior Software Engineer, Web Architecture & Infrastructure (2004-2005)
+
+### Senior Software Engineer, Web Architecture & Infrastructure
 * XPT Conversion project:
-        ◦ page and component files…involved build system, localization, verification tools, complexity analysis tools, compdev tool.
+   * page and component files…involved build system, localization, verification tools, complexity analysis tools, compdev tool.
 * C++ support: Ad-hoc and on-demand c++ changes in webscr (front-end app) for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
 * Localization tools: Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). Nested components difficult analysis, validation tools, migration tools, complexity analysis tools, parallel build script (improve release time), build-time integration changes, iincremental builds.
 * Code source ownerships: Ownership of complex stream branch/delivery (clearcase; clearcase to ??? migration also came up). Handled all merges and deliveries since front-end and webdev team were not experienced with streams, merges, deliveries.
@@ -28,8 +27,11 @@
 Digital MotorWorks         	2003 Austin, TX
 Senior Software Engineer
 * Member of data applications development team.
-Half.com/eBay	      	2000–2002 Austin, TX
-Senior Software Engineer, Applications Development
+
+---
+
+# Half.com/eBay
+### Senior Software Engineer, Applications Development
 eBay Attributes System (2001-2002)
 * Integrated with eBay ISAPI to develop the eBay attribute system by merging Deja.com catalog platform 
 * Developed API systems for eBay Product Wizards and Sell Your Item flows.
@@ -41,7 +43,9 @@ Half.com Catalog System (2000–2001)
 * Developed front-end CGI systems for buyer flows (product wizards and item detail pages), seller flows (attribute-loading, complex user flows, and input validation) and search flows (results pages spanning multi-product domains).
 * Constructed Half.com’s Java-based price-comparison applet.
 
-## Deja.com		1997–2000 Austin, TX
+--- 
+
+# Deja.com		1997–2000 Austin, TX
 ### Senior Software Engineer, Applications Development
 * Developed and worked on back-end systems, front-end applications, and API layers. Back-end systems consisted of HTTP client-server and standalone systems based on Perl, SQL, and C++. Front-end systems were based on large Perl CGI systems with HTML and embedded Perl (similar to Servlets/JSP), and Java.
 * Back-end services (Perl, C++, SQL) for searching, publishing, and real-time updating of memory-mapped files optimized for speed and complex queries.
@@ -51,6 +55,6 @@ Half.com Catalog System (2000–2001)
 * Maintained and debugged systems and features throughout their life-cycle and live support. 
 * Led team for software maintenance and code efficiency to improve software quality, stability, and optimization.
 * Product Rating and Comparison product:
-        ◦ Worked on front- and back-end systems to rate and search for products defined by editorially-defined attributes. 
-        ◦ Engineered the front-end selling system to allow users to submit attribute-based products in a flexible, editorially-controlled manner.
-        ◦ eBay later purchased this software with some Deja.com team members for integration into the Half.com and eBay sites.
+   * Worked on front- and back-end systems to rate and search for products defined by editorially-defined attributes. 
+   * Engineered the front-end selling system to allow users to submit attribute-based products in a flexible, editorially-controlled manner.
+   * eBay later purchased this software with some Deja.com team members for integration into the Half.com and eBay sites.
