@@ -4,14 +4,14 @@
 
 ## PayPal _(8 years)_
 ### Principal Engineer, Domain Technical Lead (DTL), Consumer Products Team
-* Invoicing service design and “service governance” negotiations with arch team
-* As technical lead for engineering team, read preview requirements documents to estimate quick solutions and resource needs in collaboration with product teams. Participated in yearly "swag fests" to provide t-shirt size estimates, detailed estimates, and engaging with teams in product and estimate refinement and negotiation process.
-* Agile adoption lead for team
+* Invoicing service design and service governance negotiations with the architecture team.
+* As technical lead for the engineering team, read preview requirements documents to estimate quick solutions and resource needs in collaboration with product teams. Participated in yearly swag fests to provide t-shirt size estimates, detailed estimates, and engaged with teams in product and estimate refinement and negotiation process.
+* Agile adoption lead for my development team.
 * Customer and History domain DTL, locked/unlocked code for deliveries; code reviews; lockdowns; establish lines of ownership and documentation of such; Set up domains and roles for new DTLs. Main DTL, responsible for nominating and leading new Consumer DTLs.
-* Other: Hudson, unit tests, unit coverage framework, code coverage tool and analysis, build automation… (check personal ppts and docs…)
-* Alerts / Messages system design
-* also Consumer Experience 2, Money Movement, Consumer DTL
-*  Request Money flow, cancel request, emails.
+* Other: Hudson, unit tests, unit coverage framework, code coverage tool, and analysis, build automation.
+* Alerts / Messages system design.
+* Consumer Experience 2, Money Movement, Consumer DTL.
+*  Request Money flow, Cancel Money Request flow, and email triggers.
 
 ### Senior Software Engineer, Consumer Products Team
 * Be Loved projects
