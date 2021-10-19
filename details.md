@@ -4,10 +4,10 @@
 
 ## PayPal _(8 years)_
 ### Principal Engineer, Domain Technical Lead, Consumer Products Team
-* Technical lead and team architect for the Invoicing Project, a multi-year project involving web flows, external APIs, new database, API service design, and integration to existing platforms and new presentation tier. Responsible for technical leadership, service governance, data design, team coordination, and negotiations with the central architecture team.
+* Technical lead and team architect for the **Invoicing Project**, a multi-year project involving web flows, external APIs, new database, API service design, and integration to existing platforms and new presentation tier. Responsible for technical leadership, service governance, data design, team coordination, and negotiations with the central architecture team.
 * As technical lead for the engineering team, coordinated with cross-functional teams to preview new project documents and requirements to estimate quick solutions and resource needs in collaboration with product teams. Participated in yearly swag fests to provide t-shirt size estimates, detailed estimates, and engaged with teams in product and estimate refinement and negotiation process.
 * Acted as Agile adoption lead for my development team as we migrated from waterfall process to scrum across several projects.
-* As Domain Technical Lead for Consumer and other domains, responsible for code separation and ownership of a wide section of the codebase (including files, directories, class structure, and version control). 
+* As **Domain Technical Lead for Consumer** and other domains, responsible for code separation and ownership of a wide section of the codebase (including files, directories, class structure, and version control). 
    * The DTL role was assigned to the lead engineers within the development organization. The role was to review and approve changes and lead the technical directions within the domain. Responsible for code ownership, quality, and isolation. Regarded as the primary point person for any projects or changed to owned code. 
    * Customer and History domain DTL, locked/unlocked code for deliveries; code reviews; lockdowns; establish lines of ownership and documentation of such; Set up domains and roles for new DTLs. Main DTL, responsible for nominating and leading new Consumer DTLs.
    * Initiated new integrations with Hudson, unit test guidelines and unit coverage frameworks, code coverage tool and analysis, and build automation.
@@ -15,12 +15,19 @@
 * Involved in many other projects and design including User Alerts and Messages, Consumer Experience 2, Money Movement, Request Money flow, Cancel Money Request flow, and email triggers.
 
 ### Senior Software Engineer, Consumer Products Team
-* Be Loved projects
-* Sitewide Redesign (SRD)
+* As Domain Technical Lead for the Consumer domain, I served as the subject matter expert for functional areas and a large section of the codebase. 
+   * I owned project design details with design meetings, led discussions on problems and solutions, oversaw project design and implementation, and project ownership.
+   * Domain ownership also included isolation and refactoring of legacy and inherited features.
+   * I was responsible for leading the technical design for owned areas and ensuring all team changes were complaint with architecture direction by regularly coordinating with central architecture team for reviews and signoff.
+   * Designed isolation plans for code breakup and refactoring for Consumer Signup, Sitewide Search, and Dynamic Navigation projects.
+* Led the **Sitewide Redesign** series of projects, including a beta release, launch release, and followup Phase 2 release.
+* Other projects included Auth/Auth (Authorization and Authentication flows), Parent/Child Accounts (new account types, relationship, and permissions and approvals structure), P2P payments, Sitewide Search, and Account Overview redesign.
+* Other tech lead duties included code reviews for overseas teams, review and approval of Technical Design Documents. 
 
 
 ### Senior Software Engineer, Web Architecture & Infrastructure
-* XML Presentation Tier (XPT) Conversion project:
+* For the **Site Speed Infrastructure** project, I independently led a research project to evaluate the PayPal homepage performance from several countries using a web-based performance platform (Gomez). The goal was to accurately measure our webpage delivery performance in terms of server-side response time, response size, and object downloads. To improve our performance, I implemented changes to conduct tests on the effect of using Akamai static content caching. After coordinating several tests with Akamai on a trial basis over several weeks, I compiled the results and produced a 114-page technical paper which was said to be “the gold standard for thoughtful and useful research” and which “ups the bar on quality levels for research around here” (quotes from company management).
+* **XML Presentation Tier (XPT) Conversion** project:
    * page and component files…involved build system, localization, verification tools, complexity analysis tools, compdev tool.
 * C++ support: Ad-hoc and on-demand c++ changes in webscr (front-end app) for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
 * Localization tools: Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). Nested components difficult analysis, validation tools, migration tools, complexity analysis tools, parallel build script (improve release time), build-time integration changes, iincremental builds.
