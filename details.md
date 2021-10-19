@@ -26,21 +26,18 @@
 
 
 ### Senior Software Engineer, Web Architecture & Infrastructure
-* For the **Site Speed Infrastructure** project, I independently led a research project to evaluate the PayPal homepage performance from several countries using a web-based performance platform (Gomez). The goal was to accurately measure our webpage delivery performance in terms of server-side response time, response size, and object downloads. To improve our performance, I implemented changes to conduct tests on the effect of using Akamai static content caching. After coordinating several tests with Akamai on a trial basis over several weeks, I compiled the results and produced a 114-page technical paper which was said to be “the gold standard for thoughtful and useful research” and which “ups the bar on quality levels for research around here” (quotes from company management).
+* For the **Site Speed Infrastructure** project, I independently led a research project to evaluate the PayPal homepage performance from several countries using a web-based performance platform (Gomez). 
+   * The goal was to accurately measure our webpage delivery performance in terms of server-side response time, response size, and object downloads. To improve our performance, I implemented changes to conduct tests on the effect of using Akamai static content caching. 
+   * After coordinating several tests with Akamai on a trial basis over several weeks, I compiled the results and produced a 114-page technical paper which was said to be “the gold standard for thoughtful and useful research” and which “ups the bar on quality levels for research around here” (quotes from company management).
 * **XML Presentation Tier (XPT) Conversion** project:
    * page and component files…involved build system, localization, verification tools, complexity analysis tools, compdev tool.
 * C++ support: Ad-hoc and on-demand c++ changes in webscr (front-end app) for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
-* Localization tools: Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). Nested components difficult analysis, validation tools, migration tools, complexity analysis tools, parallel build script (improve release time), build-time integration changes, iincremental builds.
+* Localization tools: Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). 
+   * Nested components difficult analysis, validation tools, migration tools, complexity analysis tools, parallel build script (improve release time), build-time integration changes, iincremental builds.
 * Code source ownerships: Ownership of complex stream branch/delivery (clearcase, clearcase migration). Handled all merges and deliveries since front-end and webdev team were not experienced with streams, merges, deliveries.
 * Email conversion: Email conversion project was separate from web templates (front-end app) conversion. 
 * XPT Service:
 * Estimating of mobile template conversion working with offshore teams.
-
----
-
-## Digital MotorWorks
-### Senior Software Engineer
-* Member of data applications development team.
 
 ---
 
@@ -61,17 +58,18 @@
 
 ## Deja.com / Deja News _(4 years)_
 ### Senior Software Engineer, Applications Development
-* Developed and worked on back-end systems, front-end applications, and API layers. Back-end systems consisted of HTTP client-server and standalone systems based on Perl, SQL, and C++. Front-end systems were based on large Perl CGI systems with HTML and embedded Perl (similar to Servlets/JSP), and Java.
+* Developed and worked on back-end systems, front-end applications, and API layers. 
+   * Back-end systems consisted of HTTP client/server and other projects based on Perl, SQL, and C++. 
+   * Front-end systems were based on large Perl CGI systems with HTML and embedded Perl (similar to Servlets/JSP), and Java.
+   * Worked on front- and back-end systems to rate and search for products by attributes. 
+   * Engineered the front-end selling system to allow users to submit products and attributes in a flexible, editorially-controlled framework.
+   * eBay later purchased this software with some Deja.com team members for integration into the Half.com and eBay sites.
 * Back-end services (Perl, C++, SQL) for searching, publishing, and real-time updating of memory-mapped files optimized for speed and complex queries.
-* Worked on the Product Rating and Comparison backend system to rate and search products defined by editorially-defined attributes.
+* Worked on the **Product Rating and Comparison** backend system to rate and search products defined by editorially-defined attributes.
 * Engineered the Product Rating and Comparison front-end selling system to allow users to submit attribute-based products in a flexible, editorially-controlled manner.
 * Implemented CGI front-end systems for MyDeja personalization, Deja Communities, and Usenet newsgroup posting system.
 * Maintained and debugged systems and features throughout their life-cycle and live support. 
 * Led team for software maintenance and code efficiency to improve software quality, stability, and optimization.
-* Product Rating and Comparison product:
-   * Worked on front- and back-end systems to rate and search for products defined by editorially-defined attributes. 
-   * Engineered the front-end selling system to allow users to submit attribute-based products in a flexible, editorially-controlled manner.
-   * eBay later purchased this software with some Deja.com team members for integration into the Half.com and eBay sites.
 
 ### System Administration Contractor
 * Responsible for system administration duties including shell scripting, hardware operations, and development of inventory control system.
@@ -86,22 +84,27 @@
 * Performed hardware and software installations of Ethernet and ATM networks.
 * Government security clearance required position
 
---- 
-
-## Sabia Botanicals
-### Software Consultant
-* Designed and built interactive HTML/CGI in-store product kiosk for customer use.
 
 ---
 
-## City of Austin
-### Software Consultant
+# Other Experience
+
+---
+
+### Digital MotorWorks
+#### Senior Software Engineer
+* Member of data applications development team.
+
+### Sabia Botanicals
+#### Software Consultant
+* Designed and implemented an interactive in-store product kiosk for customer use.
+
+### City of Austin
+#### Software Consultant
 * Implemented data and web projects for government departments.
 
----
-
-## Nortel Networks (Northern Telecom)
-### Technology Intern
+### Nortel Networks
+#### Technology Intern
 * Created automated database retrieval system and managed financial forecasting data.
 
 ---
