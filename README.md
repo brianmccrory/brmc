@@ -1,3 +1,3 @@
-## Welcome to Br Mc
+## Br Mc
 
-_Do you know where you're going to?_
+`Command: _`
