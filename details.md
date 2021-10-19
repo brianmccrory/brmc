@@ -66,7 +66,6 @@
    * Engineered the front-end selling system to allow users to submit attribute-based products in a flexible, editorially-controlled manner.
    * eBay later purchased this software with some Deja.com team members for integration into the Half.com and eBay sites.
 
-## Deja News
 ### System Administration Contractor
 * Responsible for system administration duties including shell scripting, hardware operations, and development of inventory control system.
 
