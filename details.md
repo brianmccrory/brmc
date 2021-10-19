@@ -84,24 +84,25 @@
 * Performed hardware and software installations of Ethernet and ATM networks.
 * Government security clearance required position
 
-
----
-
-# Other Experience
-
 ---
 
 ### Digital MotorWorks
 #### Senior Software Engineer
 * Member of data applications development team.
 
+---
+
 ### Sabia Botanicals
 #### Software Consultant
 * Designed and implemented an interactive in-store product kiosk for customer use.
 
+---
+
 ### City of Austin
 #### Software Consultant
 * Implemented data and web projects for government departments.
+
+---
 
 ### Nortel Networks
 #### Technology Intern
