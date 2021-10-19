@@ -21,3 +21,8 @@
 * More info on request
 
 ---
+
+## Newsletter
+* More info on request
+
+---
