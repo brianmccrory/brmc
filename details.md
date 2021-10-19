@@ -71,11 +71,12 @@
 ---
 
 ## Applied Research Labs at UT Austin
-### Lab Research Assistant, Information Technology Group (government security clearance)
+### Lab Research Assistant, Information Technology Group
 * Managed Oracle databases including SQL*Forms GUIs.
 * Developed the first web-based Intranet for the Information Technology Group.
 * Administered Solaris OS on Sun SPARCstations.
 * Performed hardware and software installations of Ethernet and ATM networks.
+* Government security clearance required position
 
 --- 
 
@@ -91,7 +92,7 @@
 
 ---
 
-## Nortel Networks / Northern Telecom
+## Nortel Networks (Northern Telecom)
 ### Technology Intern
 * Created automated database retrieval system and managed financial forecasting data.
 
