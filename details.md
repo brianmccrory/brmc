@@ -34,24 +34,26 @@ Spending two tears on the web infrastructure team in a growing organization, I p
    * After coordinating several tests with Akamai on a trial basis over several weeks, I compiled the results and produced a 114-page technical paper which was said to be “the gold standard for thoughtful and useful research” and which “ups the bar on quality levels for research around here” (quotes from company management).
 * **XML Presentation Tier (XPT) Conversion**
    * I was a core part of the small team assigned to replace the legacy in-house front-end templating system with a replacement frontpresentation tier employing robustness, reusability, and validation tools. 
+   * Created a new front-end framework (C++ with XML/XSLT processing), rendering engine, and templates.
    * Developed strategy and tools for converting thousands of page and component files and the underlying build system, localization system, verification tools, complexity analysis tools, and other tools for validation the system and reducing maintenance complexity.
+   * Architectural oversight of email conversion project (web templates and email templates) including XPT Service.
    * Particulated in the XPT Service design for isolating part of the XPT system to decrease build time and code isolation.
    * Coordination with offshore team and estimations for web, mobile, and email template conversion projects. 
    * Created documentation and guidelines for local and overseas outsourcing teams.
 * **C++ Development** 
-   * On-demand C++ changes in front-end webscr app for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
+   * On-demand C++ changes in front-end webscr app for supporting conversation: error message propogation, xslt engine integration, email template conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
    * C++ development for XSL-based web-page generation of new XML/XSL web framework
    * Integrated new system to legacy codebase and on-demand C++ feature support.
    * Developed tools to convert several thousand template files to new system without downtime.  
    * Participated in architecture design of new front-end framework.
-   * Developed performance testing tools including webscr time-slice analysis, CAL logging analysis tools, and shared memory mmap tools for performance enhancements. 
+   * Developed performance testing tools including webscr time-slice analysis, CAL logging analysis tools, and shared memory map tools for performance enhancements.
    * Prototyped various rapid solutions for performance enhancements.
 * **Localization tools:** 
    * Designed and developed component dependency analysis tools for build time enhancement to elimnate the need to build the entire front-end for single pages. 
    * Nested components difficult analysis, validation tools, migration tools, complexity analysis tools, parallel build script (improve release time), build-time integration changes, iincremental builds.
    *  Authored, maintained, and documented unix tool suite for localization team use.
 * **Source code ownership and leadership**
-   * Ownership of complex stream branching (clearcase, clearcase migration) and handled all merges and deliveries for teams who were inexperienced with source code merges and deliveries.
+   * Ownership of complex stream branching (clearcase, clearcase migration) and responsible for all merges and deliveries for teams who were inexperienced with source code merges and deliveries.
    * Architectural oversight of email conversion project (web templates and email templates) including XPT Service.
 
 ---
