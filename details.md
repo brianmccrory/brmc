@@ -47,12 +47,11 @@ Spending two tears on the web infrastructure team in a growing organization, I p
    * Developed performance testing tools including webscr time-slice analysis, CAL logging analysis tools, and shared memory mmap tools for performance enhancements. 
    * Prototyped various rapid solutions for performance enhancements.
 * **Localization tools:** 
-   * Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). 
+   * Designed and developed component dependency analysis tools for build time enhancement to elimnate the need to build the entire front-end for single pages. 
    * Nested components difficult analysis, validation tools, migration tools, complexity analysis tools, parallel build script (improve release time), build-time integration changes, iincremental builds.
    *  Authored, maintained, and documented unix tool suite for localization team use.
 * **Source code ownership and leadership**
-   * Ownership of complex stream branch/delivery (clearcase, clearcase migration). Handled all merges and deliveries since front-end and webdev team were not experienced with streams, merges, deliveries.
-   * Responsible for code delivery for inexperienced webdev teams with complex code source version management, merges, and deliveries.
+   * Ownership of complex stream branching (clearcase, clearcase migration) and handled all merges and deliveries for teams who were inexperienced with source code merges and deliveries.
    * Architectural oversight of email conversion project (web templates and email templates) including XPT Service.
 
 ---
