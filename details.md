@@ -26,18 +26,18 @@
 
 
 ### Senior Software Engineer, Web Architecture & Infrastructure
-Spending two tears on the web infrastructure team in a growing organization, I participated in various projects too numerous to detail. Here are four on the primary areas I spent my time in that role.
+Spending two tears on the web infrastructure team in a growing organization, I participated in various projects in a rapidly-growing environment. My role started as a C++ infrastructure developer with duties spanning low-level program development to offshore engineering team coordination and system architectural design
 * **Site Speed Infrastructure**
    * I independently led a research project to evaluate the PayPal homepage performance from several countries using a web-based performance platform (Gomez). 
    * The goal was to accurately measure our webpage delivery performance in terms of server-side response time, response size, and object downloads. To improve our performance, I implemented changes to conduct tests on the effect of using Akamai static content caching. 
    * Integrated Akamai for the first global caching system of static resources at PayPal.
    * After coordinating several tests with Akamai on a trial basis over several weeks, I compiled the results and produced a 114-page technical paper which was said to be “the gold standard for thoughtful and useful research” and which “ups the bar on quality levels for research around here” (quotes from company management).
 * **XML Presentation Tier (XPT) Conversion**
-   * page and component files…involved build system, localization, verification tools, complexity analysis tools, compdev tool.
-   * XPT Service design for isolating part of the XPT system.
-   * Coordination with offshore team and estimations for mobile template conversion project. 
-   * Coordination and support with local and overseas outsourcing team through documentation, leadership, estimations, and tool development.
-   * Email conversion: Email conversion project was separate from web templates (front-end app) conversion. 
+   * I was a core part of the small team assigned to replace the legacy in-house front-end templating system with a replacement frontpresentation tier employing robustness, reusability, and validation tools. 
+   * Developed strategy and tools for converting thousands of page and component files and the underlying build system, localization system, verification tools, complexity analysis tools, and other tools for validation the system and reducing maintenance complexity.
+   * Particulated in the XPT Service design for isolating part of the XPT system to decrease build time and code isolation.
+   * Coordination with offshore team and estimations for web, mobile, and email template conversion projects. 
+   * Created documentation and guidelines for local and overseas outsourcing teams.
 * **C++ Development** 
    * On-demand C++ changes in front-end webscr app for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
    * C++ development for XSL-based web-page generation of new XML/XSL web framework
