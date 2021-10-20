@@ -15,7 +15,7 @@
 * Led and consulted in many other projects and technical designs including User Alerts and Messages, Consumer Experience 2, Money Movement, Request Money flow, Cancel Money Request flow, and email triggers.
 
 ### Senior Software Engineer, Consumer Products Team
-* As Domain Technical Lead for the Consumer domain, I served as the subject matter expert for functional areas and a large section of the codebase. 
+* As **Domain Technical Lead** for the Consumer domain, I served as the subject matter expert for functional areas and a large section of the codebase. 
    * I owned project design details with design meetings, led discussions on problems and solutions, oversaw project design and implementation, and project ownership.
    * Domain ownership also included isolation and refactoring of legacy and inherited features.
    * I was responsible for leading the technical design for owned areas and ensuring all team changes were complaint with architecture direction by regularly coordinating with central architecture team for reviews and signoff.
@@ -31,28 +31,28 @@
    * After coordinating several tests with Akamai on a trial basis over several weeks, I compiled the results and produced a 114-page technical paper which was said to be “the gold standard for thoughtful and useful research” and which “ups the bar on quality levels for research around here” (quotes from company management).
 * **XML Presentation Tier (XPT) Conversion** project:
    * page and component files…involved build system, localization, verification tools, complexity analysis tools, compdev tool.
-* C++ support: Ad-hoc and on-demand c++ changes in webscr (front-end app) for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
-* Localization tools: Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). 
+   * XPT Service design for isolating part of the XPT system.
+   * Coordination with offshore team and estimations for mobile template conversion project. 
+   * Email conversion: Email conversion project was separate from web templates (front-end app) conversion. 
+* **C++ coding and support:** Ad-hoc and on-demand c++ changes in webscr (front-end app) for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
+* **Localization tools:** Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). 
    * Nested components difficult analysis, validation tools, migration tools, complexity analysis tools, parallel build script (improve release time), build-time integration changes, iincremental builds.
-* Code source ownerships: Ownership of complex stream branch/delivery (clearcase, clearcase migration). Handled all merges and deliveries since front-end and webdev team were not experienced with streams, merges, deliveries.
-* Email conversion: Email conversion project was separate from web templates (front-end app) conversion. 
-* XPT Service:
-* Estimating of mobile template conversion working with offshore teams.
+* **Source code ownerships:** Ownership of complex stream branch/delivery (clearcase, clearcase migration). Handled all merges and deliveries since front-end and webdev team were not experienced with streams, merges, deliveries.
 
 ---
 
 ## Half.com / eBay _(2 years)_
 ### Senior Software Engineer, Applications Development
-*eBay Attributes System*
-* Integrated with eBay ISAPI to develop the eBay attribute system by merging Deja.com catalog platform 
-* Developed API systems for eBay Product Wizards and Sell Your Item flows.
-*eBay/Billpoint Integration*
-* Worked individually on high-priority “Checkout” project for eBay/Billpoint integration. 
-* Integrated with eBay ISAPI for seamless checkout/payment flow with Billpoint.
-*Half.com Catalog System*
-* Integrated Deja.com’s attribute/catalog system with Half.com to successfully expand the feature platform, scalability, audience, and gross merchandise sales.
-* Developed front-end CGI systems for buyer flows (product wizards and item detail pages), seller flows (attribute-loading, complex user flows, and input validation) and search flows (results pages spanning multi-product domains).
-* Constructed Half.com’s Java-based price-comparison applet.
+* **eBay Attributes System**
+   * Integrated with eBay ISAPI to develop the eBay attribute system by merging Deja.com catalog platform 
+   * Developed API systems for eBay Product Wizards and Sell Your Item flows.
+* **eBay/Billpoint Integration**
+   * Worked individually on high-priority “Checkout” project for eBay/Billpoint integration. 
+   * Integrated with eBay ISAPI for seamless checkout/payment flow with Billpoint.
+* **Half.com Catalog System**
+   * Integrated Deja.com’s attribute/catalog system with Half.com to successfully expand the feature platform, scalability, audience, and gross merchandise sales.
+   * Developed front-end CGI systems for buyer flows (product wizards and item detail pages), seller flows (attribute-loading, complex user flows, and input validation) and search flows (results pages spanning multi-product domains).
+   * Constructed Half.com’s Java-based price-comparison applet.
 
 --- 
 
