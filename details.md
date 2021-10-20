@@ -4,14 +4,14 @@
 
 ## PayPal _(8 years)_
 ### Principal Engineer, Domain Technical Lead, Consumer Products Team
-* Technical lead and team architect for the **Invoicing Project**, a multi-year project involving web flows, external APIs, new database, API service design, and integration to existing platforms and new presentation tier. Responsible for technical leadership, service governance, data design, team coordination, and negotiations with the central architecture team.
+* Technical lead and team architect for the **Invoicing Project**, a multi-year project involving web applications, services and external APIs, a new database, and integration to existing platforms and new presentation tier. Responsible for technical leadership, service governance, data design, team coordination, and negotiations with the central architecture team.
 * As **technical lead for the Consumer Engineering team**, served as primary point person for cross-functional team discussions for estimation, planning, negotiations, and technical guidance. Reviewed project documents and requirements and worked with product teams to draft solutions, estimates, and resource needs in ongoing refinement and negotiation processes. Participated in yearly swag fests to provide t-shirt size estimates and detailed estimates as part of team resource planning and technical solution design.
-* Acted as Agile adoption lead for my development team as we migrated from waterfall process to scrum across several projects.
 * As **Domain Technical Lead for Consumer** and other domains, responsible for code separation and ownership of a wide section of the codebase (including files, directories, class structure, and version control). 
    * The DTL role was assigned to the lead engineers within the development organization. The role was to review and approve changes and lead the technical directions within the domain. Responsible for code ownership, quality, and isolation. Regarded as the primary point person for any projects or changed to owned code. 
    * Customer and History domain DTL, locked/unlocked code for deliveries; code reviews; lockdowns; establish lines of ownership and documentation of such; Set up domains and roles for new DTLs. Main DTL, responsible for nominating and leading new Consumer DTLs.
    * Initiated new integrations with Hudson, unit test guidelines and unit coverage frameworks, code coverage tool and analysis, and build automation.
    * As primary tech lead, responsible for triage and investigation of any issues stemming from code ownership and and overlapping products, such as investigating live site bugs, design proposals, refactoring, and sub-domain ownership and migration.
+* Acted as Agile adoption lead for my development team as we migrated from waterfall process to scrum across several projects.
 * Led and consulted in many other projects and technical designs including User Alerts and Messages, Consumer Experience 2, Money Movement, Request Money flow, Cancel Money Request flow, and email triggers.
 
 ### Senior Software Engineer, Consumer Products Team
