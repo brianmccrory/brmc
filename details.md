@@ -26,18 +26,34 @@
 
 
 ### Senior Software Engineer, Web Architecture & Infrastructure
-* For the **Site Speed Infrastructure** project, I independently led a research project to evaluate the PayPal homepage performance from several countries using a web-based performance platform (Gomez). 
+Spending two tears on the web infrastructure team in a growing organization, I participated in various projects too numerous to detail. Here are four on the primary areas I spent my time in that role.
+* **Site Speed Infrastructure**
+   * I independently led a research project to evaluate the PayPal homepage performance from several countries using a web-based performance platform (Gomez). 
    * The goal was to accurately measure our webpage delivery performance in terms of server-side response time, response size, and object downloads. To improve our performance, I implemented changes to conduct tests on the effect of using Akamai static content caching. 
+   * Integrated Akamai for the first global caching system of static resources at PayPal.
    * After coordinating several tests with Akamai on a trial basis over several weeks, I compiled the results and produced a 114-page technical paper which was said to be “the gold standard for thoughtful and useful research” and which “ups the bar on quality levels for research around here” (quotes from company management).
-* **XML Presentation Tier (XPT) Conversion** project:
+* **XML Presentation Tier (XPT) Conversion**
    * page and component files…involved build system, localization, verification tools, complexity analysis tools, compdev tool.
    * XPT Service design for isolating part of the XPT system.
    * Coordination with offshore team and estimations for mobile template conversion project. 
+   * Coordination and support with local and overseas outsourcing team through documentation, leadership, estimations, and tool development.
    * Email conversion: Email conversion project was separate from web templates (front-end app) conversion. 
-* **C++ coding and support:** Ad-hoc and on-demand c++ changes in webscr (front-end app) for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
-* **Localization tools:** Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). 
+* **C++ Development** 
+   * On-demand C++ changes in front-end webscr app for supporting conversation: error message propogation, xslt engine integration, email tmpl conversion analysis, new model handlers (e.g. Inquira Help Center system, separate system).
+   * C++ development for XSL-based web-page generation of new XML/XSL web framework
+   * Integrated new system to legacy codebase and on-demand C++ feature support.
+   * Developed tools to convert several thousand template files to new system without downtime.  
+   * Participated in architecture design of new front-end framework.
+   * Developed performance testing tools including webscr time-slice analysis, CAL logging analysis tools, and shared memory mmap tools for performance enhancements. 
+   * Prototyped various rapid solutions for performance enhancements.
+* **Localization tools:** 
+   * Component dependency analysis tools (components/pages) for build time enhancement (no need to build entire front-end to test single/several pages). 
    * Nested components difficult analysis, validation tools, migration tools, complexity analysis tools, parallel build script (improve release time), build-time integration changes, iincremental builds.
-* **Source code ownerships:** Ownership of complex stream branch/delivery (clearcase, clearcase migration). Handled all merges and deliveries since front-end and webdev team were not experienced with streams, merges, deliveries.
+   *  Authored, maintained, and documented unix tool suite for localization team use.
+* **Source code ownership and leadership**
+   * Ownership of complex stream branch/delivery (clearcase, clearcase migration). Handled all merges and deliveries since front-end and webdev team were not experienced with streams, merges, deliveries.
+   * Responsible for code delivery for inexperienced webdev teams with complex code source version management, merges, and deliveries.
+   * Architectural oversight of email conversion project (web templates and email templates) including XPT Service.
 
 ---
 
@@ -47,32 +63,30 @@
    * Integrated with eBay ISAPI to develop the eBay attribute system by merging Deja.com catalog platform 
    * Developed API systems for eBay Product Wizards and Sell Your Item flows.
 * **eBay/Billpoint Integration**
-   * Worked individually on high-priority “Checkout” project for eBay/Billpoint integration. 
+   * Worked independentely on the high-priority **Checkout Project for eBay/Billpoint integration**. 
    * Integrated with eBay ISAPI for seamless checkout/payment flow with Billpoint.
 * **Half.com Catalog System**
    * Integrated Deja.com’s attribute/catalog system with Half.com to successfully expand the feature platform, scalability, audience, and gross merchandise sales.
-   * Developed front-end CGI systems for buyer flows (product wizards and item detail pages), seller flows (attribute-loading, complex user flows, and input validation) and search flows (results pages spanning multi-product domains).
    * Constructed Half.com’s Java-based price-comparison applet.
+   * Developed front-end CGI systems for buyer flows (product wizards and item detail pages), seller flows (attribute-loading, complex user flows, and input validation) and search flows (results pages spanning multi-product domains).
 
 --- 
 
 ## Deja.com / Deja News _(4 years)_
 ### Senior Software Engineer, Applications Development
-* Developed and worked on back-end systems, front-end applications, and API layers. 
+* Developed and worked on back-end systems, front-end applications, and APIs. 
    * Back-end systems consisted of HTTP client/server and other projects based on Perl, SQL, and C++. 
    * Front-end systems were based on large Perl CGI systems with HTML and embedded Perl (similar to Servlets/JSP), and Java.
-   * Worked on front- and back-end systems to rate and search for products by attributes. 
+   * Worked on the **Product Rating and Comparison** backend system to rate and search products defined by editorially-defined attributes.
    * Engineered the front-end selling system to allow users to submit products and attributes in a flexible, editorially-controlled framework.
    * eBay later purchased this software with some Deja.com team members for integration into the Half.com and eBay sites.
 * Back-end services (Perl, C++, SQL) for searching, publishing, and real-time updating of memory-mapped files optimized for speed and complex queries.
-* Worked on the **Product Rating and Comparison** backend system to rate and search products defined by editorially-defined attributes.
-* Engineered the Product Rating and Comparison front-end selling system to allow users to submit attribute-based products in a flexible, editorially-controlled manner.
 * Implemented CGI front-end systems for MyDeja personalization, Deja Communities, and Usenet newsgroup posting system.
 * Maintained and debugged systems and features throughout their life-cycle and live support. 
 * Led team for software maintenance and code efficiency to improve software quality, stability, and optimization.
 
 ### System Administration Contractor
-* Responsible for system administration duties including shell scripting, hardware operations, and development of inventory control system.
+* Responsible for system administration duties including Oracle databases, shell scripting, hardware operations, and development of inventory control system.
 
 ---
 
@@ -94,7 +108,7 @@
 
 ## Sabia Botanicals
 ### Software Consultant
-* Designed and implemented an interactive in-store product kiosk for customer use.
+* Designed and implemented an interactive information kiosk.
 
 ---
 
